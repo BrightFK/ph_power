@@ -8,15 +8,17 @@ PH Power Tracker is a mobile application built with Flutter that allows users to
 
 <table style="width:100%; border: none;">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/BrightFK/ph_power/main/screenshots/Screenshot_20250819_042828.png" width="200" alt="Login Screen"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/BrightFK/ph_power/main/screenshots/Screenshot_20250819_042903.png" width="200" alt="Map View"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/BrightFK/ph_power/main/screenshots/Screenshot_20250819_042958.png" width="200" alt="Area List View"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/BrightFK/ph_power/main/screenshots/Screenshot_20250819_042746.png" width="200" alt="Login Screen"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/BrightFK/ph_power/main/screenshots/Screenshot_20250819_042828.png" width="200" alt="Map View"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/BrightFK/ph_power/main/screenshots/Screenshot_20250819_042903.png" width="200" alt="Area List View"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/BrightFK/ph_power/main/screenshots/Screenshot_20250819_042958.png" width="200" alt="Profile Screen"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/BrightFK/ph_power/main/screenshots/Screenshot_20250819_043109.png" width="200" alt="Profile Screen"></td>
   </tr>
   <tr style="text-align:center;">
-    <td>Login Screen</td>
-    <td>Live Map View</td>
+    <td>Live Map</td>
+    <td>Report Screen</td>
     <td>Area List View</td>
+    <td>Login Screen</td>
     <td>User Profile</td>
   </tr>
 </table>
